@@ -1,0 +1,12 @@
+.bg-ebook{
+    background: url(/img/fondo-web.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.link-hot:hover{
+    box-shadow: 0px 0px 20px 0px #d34;
+    transition: .6s;
+}
+
+
